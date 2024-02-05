@@ -4,4 +4,4 @@ You left due to the overwhelmingness only to find someone stunning when you head
 You want to know them because you feel the love they have for you
 
 
-[You stay and **talk to them**](attractive.md)
+[You stay and **talk to them**](dating.md)
