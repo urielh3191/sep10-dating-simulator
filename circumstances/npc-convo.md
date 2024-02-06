@@ -1,8 +1,8 @@
-# Player has conversation with person
-You say "it's ok" and you start sharing some facts about yourself and the reason you're  taking a walk. The person start's to laugh and they share somme facts about themselves and you both have some things in common!!!
+You pick up the mysterious green rectangle, and you see that its a video game ! Call of Duty MW III. You just bought that same game a little less than a week ago.
 
-**You feel a type of way for them but you don't want to say anything so you**
+Them:
+Ah sorry. You didn't have to pick that up for me 
 
-[say it was nice meeting you and you leave](playerleaves.md)
+[Ah, it was nice meeting you. Goodbye. Sorry about the inconvnience.](playerleaves.md)
 
-[Still want to see how they feel and they feel the same!!! you guys plan to meet up later](date-plans.md)
+[](date-plans.md)
