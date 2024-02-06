@@ -1,4 +1,6 @@
 # Game over
-This is the end of the game
+Holy shoot !! You actually scored a couple wins after that nice walk in the park. Maybe you need to go outside a little more often and take a mental break...
 
-[Start over](predicament.md)
+[Keep playing APEX.](predicament.md)
+
+[Stop playing and go to sleep.](/README.md)

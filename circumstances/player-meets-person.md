@@ -1,8 +1,10 @@
 # Player meets Person
-As you are walking,  You see this person but they  bump into you and they say "I'm sorry" you turn and
+As you are strolling through the park, someone bumps into you! They drop a mysterious green item on the floor.
+
+Them: Oh shoot, I'm sorry !! I didn't notice you 😅
 
 
+You:
+[Here, let me get that for you](npc-convo.md)
 
-[You have a conversation with them](npc-convo.md)
-
-[You ignore them and roll your eyes and keep walking](player-ignores.md)
+[Watch where you're going man...](player-ignores.md)
