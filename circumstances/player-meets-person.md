@@ -9,4 +9,4 @@ You:
 
 or
 
-[Watch where you're going man...](player-ignores.md)
+[Watch where you're going man... *walk away*](player-ignores.md)
