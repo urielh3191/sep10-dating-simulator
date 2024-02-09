@@ -1,6 +1,6 @@
 ## SEP10; Create Your Own Adventure:
 # Dating Simulator
-## by Luis Hernandez and Jairo Pixabaj
+## by [Luis Hernandez](https://github.com/urielh3191) and [Jairo Pixabaj](https://github.com/jairop)
 
 [Click this link to start the simulator !](circumstances/predicament.md)
 
