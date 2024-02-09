@@ -2,7 +2,7 @@
 
 ___[Stay home and play another match](stay-home.md)___
 
-**[Go outside and explore the park](player-meets-person.md)**
+**[Go outside and explore the park, clear your mind.](player-meets-person.md)**
 
 
 
