@@ -2,13 +2,13 @@
 
 You pick up the mysterious green rectangle, and you see that its a video game ! Call of Duty MW III. You just bought that same game a little less than a week ago.
 
-### Mysterious wanderer:
+### Mysterious wanderer (them):
 **Ah sorry. You didn't have to pick that up for me**
 
 ### You:
 **No way, you like Call of Duty? I just bought that same game a little while ago!**
 
-### Them
+### Mysterious wander (them):
 **Yeah, someone told me its a pretty fun game**
 
 ### You:
