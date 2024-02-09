@@ -4,4 +4,7 @@
 
 [Click this link to start the simulator !](circumstances/predicament.md)
 
-[Click this link to see the game layout (we really recommend you wait until you finish one round until you see this!) !!](images/Diagram.png)
+[Click this link to see the game layout we really recommend you wait until you finish one round until you see this!](image.png)
+
+
+
