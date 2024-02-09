@@ -9,7 +9,7 @@
 
 ## [Click this link to see the game layout we really recommend you wait until you finish one round until you see this!](image.png)
 
-### The purpose of this project was to test our collaboration skills, and we picked a rather silly topic compared to other storylines that our classmates did, just to really push our collaboration, coding, and story-telling skills.
+### The purpose of this project was to test our collaboration skills, and we picked a rather silly topic compared to other storylines that our classmates did,  just to really push our collaboration, coding, and story-telling skills.
 
 
 
