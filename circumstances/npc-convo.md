@@ -14,7 +14,8 @@ You pick up the mysterious green rectangle, and you see that its a video game ! 
 ### You:
 **Well it is a very frustrating game at times I will say haha....**
 
-↓↓↓↓↓
+
+**↓↓↓↓↓**
 
 [Ah, well it was nice to meet you. I have to get going.](playerleaves.md)
 
