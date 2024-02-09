@@ -11,5 +11,4 @@
 
 #### The purpose of this project was to test our collaboration skills, and we picked a rather silly topic compared to other storylines that our classmates did,  just to really push our collaboration, coding, and story-telling skills.
 
-# We attempted to make this game as gender-neutral as possible, so please forgive us if the plot feels a little bland or vague <3
-
+# We attempted to make this game as gender-neutral as possible, so please forgive us if the plot feels a little bland or vague ❤︎
