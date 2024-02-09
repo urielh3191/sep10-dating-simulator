@@ -1,7 +1,8 @@
 # True Love/ The aftermath
 
 You both move in with each other, you buy pets together, and you have a happy life with them
-![Tabbycat](images/Tabbycat.png)
+
+![Tabbycat](images/cat-island.gif)
 
 
 
